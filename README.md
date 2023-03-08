@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://global-uploads.webflow.com/61015c6880a42528c5f135ad/61dc136d16751ee7ac9d98b2_Frame%2016.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-development.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg">
 </picture>
 
 # Temilola Kutelu👋
