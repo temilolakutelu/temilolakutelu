@@ -27,8 +27,6 @@ Here are some ideas to get you started:
    :space_invader: Automation Analyst. <br>
    👯 Mentor <br>
    
-**Let's connect:<br>**
-[![Linkedin Badge](https://img.shields.io/badge/-Temilolakutelu-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/temilola-kutelu-714761a4/) [![Instagram Badge](https://img.shields.io/badge/-Lola_sapphire03-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Lola_sapphire03)  [![Twitter Badge](https://img.shields.io/badge/-Temilolasapphi1-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=white)](https://twitter.com/Temilolasapphi1)
 
 ## 💪Languages and Tools 
 ![Vue](https://img.shields.io/badge/vue-42b883.svg?style=flat&logo=vuejs&logo=vue&logoColor=white)
@@ -47,6 +45,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+
 ## 🛠Some Of My Work Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)  
 ![JIRA](https://img.shields.io/badge/Jira-003366.svg?style=plastic&logo=Jira&logoColor=white)
@@ -54,3 +53,12 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079bf.svg?style=plastic&logo=Trello&logoColor=white)
 
+
+## 🧾Blog
+- [Web Development With NESA By Makers](https://medium.com/@temilolakutelu/web-development-with-nesabymakers-fbafd3842554)
+- [Essential Guide To SASS](https://medium.com/@temilolakutelu/essential-guide-to-sass-1a685d2fa416)
+- [Image WaterMarking with Codeigniter](https://medium.com/@temilolakutelu/image-watermarking-with-codeigniter-e4f8326b9df2) 
+
+
+## 🤝Let's Connect
+[![Linkedin Badge](https://img.shields.io/badge/-Temilolakutelu-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/temilola-kutelu-714761a4/) [![Instagram Badge](https://img.shields.io/badge/-Lola_sapphire03-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Lola_sapphire03)  [![Twitter Badge](https://img.shields.io/badge/-Temilolasapphi1-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=white)](https://twitter.com/Temilolasapphi1)
