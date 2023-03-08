@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 **Let's connect:<br>**
 [![Linkedin Badge](https://img.shields.io/badge/-Temilolakutelu-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/temilola-kutelu-714761a4/) [![Instagram Badge](https://img.shields.io/badge/-Lola_sapphire03-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Lola_sapphire03)  [![Twitter Badge](https://img.shields.io/badge/-Temilolasapphi1-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=white)](https://twitter.com/Temilolasapphi1)
 
-## 💪Technical Skills 
-![Vue](https://img.shields.io/badge/vue-42b883.svg?style=flat&logo=vue&logo=vue&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-black?style=flat&logo=nuxt.js&logoColor=white) 
+## 💪Languages and Tools 
+![Vue](https://img.shields.io/badge/vue-42b883.svg?style=flat&logo=vuejs&logo=vue&logoColor=white)
+![Nuxt JS](https://img.shields.io/badge/Nuxt-35495e?style=flat&logo=nuxt.js&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 🛠Some Of My Work Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![JIRA](https://img.shields.io/badge/Jira-%23026AA7.svg?style=for-the-badge&logo=Jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)  
+![JIRA](https://img.shields.io/badge/Jira-%23026AA7.svg?style=plastic&logo=Jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
