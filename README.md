@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 </div> 
  
 
-## 🛠Some Of My Work Tools
+## 🛠 Some Of My Work Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)  
 ![JIRA](https://img.shields.io/badge/Jira-003366.svg?style=plastic&logo=Jira&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F1502F.svg?style=plastic&logo=git&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-pink?style=plastic&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079bf.svg?style=plastic&logo=Trello&logoColor=white)
 
 
@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 ## 🔥My Stats 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=temilolakutelu&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="temilolakutelu" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=temilolakutelu&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="temilolakutelu" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=temilolakutelu&theme=highcontrast&hide_border=true" alt="temilolakutelu" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=temilolakutelu&show_icons=true&theme= vision-friendly-dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="temilolakutelu" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=temilolakutelu&theme=vision-friendly-dark&hide_border=true" alt="temilolakutelu" />
 </p>
 
 
