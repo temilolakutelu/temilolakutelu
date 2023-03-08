@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## 🛠Some Of My Work Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)  
-![JIRA](https://img.shields.io/badge/Jira-%23026AA7.svg?style=plastic&logo=Jira&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-003366.svg?style=plastic&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079bf.svg?style=plastic&logo=Trello&logoColor=white)
+![Git](https://img.shields.io/badge/git-F1502F.svg?style=plastic&logo=git&logoColor=white)
