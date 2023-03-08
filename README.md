@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture align="center">
- <source media="(prefers-color-scheme: dark)" srcset="https://global-uploads.webflow.com/61015c6880a42528c5f135ad/61dc136d16751ee7ac9d98b2_Frame%2016.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-development.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg">
-</picture>
+ 
+
+<div align="center">
+<img src="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-development.jpg" />
+</div>
 
 # Temilola Kutelu👋
 
@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Temilolakutelu-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/temilola-kutelu-714761a4/) [![Instagram Badge](https://img.shields.io/badge/-Lola_sapphire03-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Lola_sapphire03)  [![Twitter Badge](https://img.shields.io/badge/-Temilolasapphi1-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=white)](https://twitter.com/Temilolasapphi1)
 
 
-## 🔥My Stats 
+## 🔥My Stats  
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=temilolakutelu&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="temilolakutelu" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=temilolakutelu&show_icons=true&theme= vision-friendly-dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="temilolakutelu" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=temilolakutelu&theme=vision-friendly-dark&hide_border=true" alt="temilolakutelu" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=temilolakutelu&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="temilolakutelu" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=temilolakutelu&theme=highcontrast&hide_border=true" alt="temilolakutelu" />
 </p>
 
 
