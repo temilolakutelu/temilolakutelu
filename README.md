@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  
 
 <div align="center">
-<img src="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-development.jpg" />
+<img src="https://cdn.light-it.net/articles_image/Article45_M1.jpg" height="400px"/>
 </div>
 
 # Temilola Kutelu👋
